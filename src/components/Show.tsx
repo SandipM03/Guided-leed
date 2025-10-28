@@ -6,7 +6,7 @@ type Props = {
 }
 
 /**
- * A component that conditionally renders its children based on the `show` prop.
+ *
  *
  * @param {Props} props - The component properties.
  * @param {boolean} props.show - Whether to show the children.

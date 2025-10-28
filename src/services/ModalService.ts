@@ -7,9 +7,7 @@ import {
 } from '@/interface/ModalInterface'
 import { outputSchema } from '@/schema/modeOutput'
 
-/**
- * Service to manage and interact with modals.
- */
+
 export class ModalService {
   /**
    * The currently active modal.
